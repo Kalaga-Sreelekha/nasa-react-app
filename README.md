@@ -1,8 +1,9 @@
-# React + Vite
+NASA-REACT-PROJECT
+Build a react app using NASA API
+![image](https://github.com/user-attachments/assets/344351d7-6e1f-46a7-b2bd-04887aee3285)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+if we click on info button it will show it as below image
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/8b13e141-3683-4a65-86a3-bf3d63525bc5)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
